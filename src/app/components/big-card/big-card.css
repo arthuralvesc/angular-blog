@@ -8,7 +8,7 @@
     justify-content: flex-start;
 }
 
-.big-card-image > img{
+.big-card-image > a > img{
     width: 100%;
     min-width: 400px;
 }
